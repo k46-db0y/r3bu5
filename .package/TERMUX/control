@@ -1,0 +1,8 @@
+Package: r3bu5
+Version: 2.2
+Installed-Size: 9400
+Architecture: all
+Maintainer: @z3r0w0
+Depends: php, wget, git, curl
+Homepage: https://github.com/z3r0w0/r3bu5
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
