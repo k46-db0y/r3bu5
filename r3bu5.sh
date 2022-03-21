@@ -152,7 +152,7 @@ banner() {
 		${RED}                        ░  ${WHITE}Version : 2.2
 
 		${GREEN}[${WHITE}-${GREEN}]${BLUE} Tool Created by z3r0w0 ${WHITE}
-		${GREEN}[${WHITE}-${GREEN}]${BLUE}${TELEGRAM}${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${BLUE} Join Our Telegram https://t.me/z3r0w0 ${WHITE}
 	EOF
 }
 
@@ -436,7 +436,7 @@ tunnel_menu() {
 
 		${RED}[${WHITE}01${RED}]${MAGENTA} Localhost    ${RED}[${BLUE}For Devs${RED}]
 		${RED}[${WHITE}02${RED}]${MAGENTA} Ngrok.io     ${RED}[${BLUE}Buggy${RED}]
-		${RED}[${WHITE}03${RED}]${MAGENTA} Cloudflared  ${RED}[${BLUE}NEW!${RED}]
+		${RED}[${WHITE}03${RED}]${MAGENTA} Cloudflared  ${RED}[${GREEN}NEW!${RED}]
 
 	EOF
 
